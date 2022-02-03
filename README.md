@@ -1,0 +1,2 @@
+# myappsample
+Understanding GIT
