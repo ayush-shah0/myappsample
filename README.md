@@ -1,2 +1,2 @@
-# myappsample
-Understanding GIT
+# My App
+Understanding GIT from terminal
