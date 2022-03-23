@@ -1,2 +1,2 @@
 # My App
-Understanding GIT from terminal
+Navigating GIT from terminal
